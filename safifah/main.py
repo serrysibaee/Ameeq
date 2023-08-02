@@ -51,7 +51,7 @@ random_safifah_bound(b2,5,10)
 
 # forwading 
 
-dot(a1,w1,x)
+dot(a1,x,w1)
 add(a1,b1)
 sigmoid_saf(a1)
 
@@ -59,9 +59,11 @@ dot(a2,a1,w2)
 add(a2,b2)
 sigmoid_saf(a2)
 
-# to get y 
+# to get y_hat 
 # we got two ways either using the dereference function
 # y = a2.derefrence()
 # or using the * like this 
-y = float(*a2.masfofah)
+y_hat = float(*a2.masfofah)
+
+print(y_hat)
 
