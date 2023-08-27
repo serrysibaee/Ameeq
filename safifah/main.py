@@ -50,7 +50,6 @@ random_safifah_bound(b2,5,10)
 # print_safifah(b2,"b2")
 
 # forwading 
-
 dot(a1,x,w1)
 add(a1,b1)
 sigmoid_saf(a1)
