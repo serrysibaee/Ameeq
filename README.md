@@ -9,6 +9,6 @@ Building Deep learning library from scratch in python (starting from linear alge
 
 
 ## safifah file
-### 1. matrix_op file is created to represent the matrix operations with randomness to use it as basis for the model creation (containing Safifah Object)
-### 2. main file is for creating the model with forward and backward operations
+ 1. matrix_op file is created to represent the matrix operations with randomness to use it as basis for the model creation (containing Safifah Object)
+ 2. main file is for creating the model with forward and backward operations
 
